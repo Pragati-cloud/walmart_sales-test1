@@ -1,0 +1,3 @@
+Pandas
+pymysql  # this will work as apadter
+sqlalchemy create_engine
